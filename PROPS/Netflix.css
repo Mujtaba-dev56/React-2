@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(176, 176, 230);      
+    color: black; 
+   
+  }
+
+  #imig{
+    width: 25%;
+    height: 25%;
+    padding-top: 30px;
+    padding-left: 30px;
+    display: flex;
+  
+    /* align-items: center;
+   justify-content: center; */
+  }
+  img{
+    padding-top: 30px;
+    padding-left: 30px;
+    display: flex;
+  
+
+  }
